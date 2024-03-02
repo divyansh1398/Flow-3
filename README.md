@@ -1,20 +1,20 @@
-# Flow_assignment
+# Flow_3
 
-Add a function called borrowAuthNFT and make it publicly accessible to other people so they can read our NFT's metadata
+Create a function named borrowAuthNFT and ensure it's publicly accessible for others to access our NFT's metadata.
 
 ## Description
 
-Adding a function called borrowAuthNFT in the main cdc file like i have done in the file. And adding it to the interface file as well but only declaration like done on the other files too.
+Incorporate the borrowAuthNFT function into the main CDC file, as demonstrated in the provided file. Additionally, include its declaration in the interface file, mirroring the approach taken in other files.
 
 ## Getting Started
 
 ### Executing program
 
-1. Deploy the interface contract and then deploy the main contract.
-2. Run the Create Collection tracnsaction.
-3. Run the Minting NFT tracnsaction.
-4. Run the scripts for GET_NFT_ID to get the nft id for running the main script.
-5. Run the scripts for MAIN_SCRIPT and it will return the data from the newly created function.
+1. First, deploy the interface contract followed by deploying the main contract.
+2. Execute the transaction to Create Collection.
+3. Execute the transaction for Minting NFT.
+4. Execute the scripts to retrieve the NFT ID, essential for running the main script.
+5. Execute the MAIN script, which will provide data from the newly created function.
 
 ## License
 
